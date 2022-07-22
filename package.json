@@ -1,5 +1,5 @@
 {
-  "name": "node-telegram-bot-api",
+  "name": "@api555/node-telegram-bot-api",
   "version": "0.59.0",
   "description": "Telegram Bot API",
   "main": "./index.js",
@@ -65,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yagop/node-telegram-bot-api.git"
+    "url": "https://github.com/gitapi555/node-telegram-bot-api.git"
   },
   "bugs": {
-    "url": "https://github.com/yagop/node-telegram-bot-api/issues"
+    "url": "https://github.com/gitapi555/node-telegram-bot-api/issues"
   },
-  "homepage": "https://github.com/yagop/node-telegram-bot-api"
+  "homepage": "https://github.com/gitapi555/node-telegram-bot-api"
 }
